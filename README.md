@@ -22,10 +22,13 @@ Fun fact: I enjoy analyzing movies almost as much as watching them, especially w
 <code><a href="https://www.java.com/"><img height="40" src="https://okhosting.com/wp-content/uploads/2019/01/java.jpg" alt="java logo" /></a></code>
 <code><a href="https://www.javascript.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" /></a></code>
 <code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5 logo" /></a></code>
+<code><img height="40" src="![alt text](image-2.png)" alt="css3 logo" /></a></code>
 <code><a href="https://git-scm.com/"><img height="40" src="https://victorroblesweb.es/wp-content/uploads/2018/04/git.png" alt="git logo" /></a></code>
 <code><a href="https://nodejs.org/en/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs logo" /></a></code>
 <code><a href="https://www.mongodb.com/"><img height="40" src="https://miro.medium.com/v2/resize:fit:1400/1*08w-d61aJiZPB-f3GakwAg.png" alt="mongodb logo" /></a></code>
 <code><a href="https://www.postgresql.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="postregsql logo" /></a></code>
+<code><a href="https://www.mysql.com/"><img height="40" src="https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2021-09/ECX-1909_Hero_MySQL_600x400%402x-1_0.png" alt="mysql logo" /></a></code>
 <code><a href="https://anaconda.org/anaconda/conda"><img height="40" src="https://docs.crc.nd.edu/_images/conda.png" alt="conda logo" /></a></code>
 <code><a href="https://jupyter.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyterlab logo" /></a></code>
 <code><a href="https://www.virtualbox.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/VirtualBox_2024.png" alt="virtualbox logo" /></a></code>
