@@ -2,7 +2,7 @@
 <!-- Greeting -->
 # Greetings, I'm David! :wave:
 
-[![Linkedin](https://img.shields.io/badge/-izzuddinahsanujunda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-villaescusa-rumba-861bb1336/)
+[![Linkedin](https://img.shields.io/badge/-Davidrumbaa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-villaescusa-rumba-861bb1336/)
 
 <!--Introduction -->
 I'm a **Web application development student** at [PROMETEO](https://www.prometeo-fp.com/), currently expanding my knowledge in **Cybersecurity** through a master's degree and specializing in **Artificial Intelligence** with Racks Academy.
@@ -19,7 +19,7 @@ Fun fact: I enjoy analyzing movies almost as much as watching them, especially w
 ---
 
 ### Currently Getting Familiar
-<code><a href="https://www.java.com/"><img height="40" src="https://education.oracle.com/file/general/p-80-java.png" alt="java logo" /></a></code>
+<code><a href="https://www.java.com/"><img height="40" src="https://okhosting.com/wp-content/uploads/2019/01/java.jpg" alt="java logo" /></a></code>
 <code><a href="https://www.javascript.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" /></a></code>
 <code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
 <code><a href="https://jupyter.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyterlab logo" /></a></code>
