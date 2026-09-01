@@ -1,7 +1,8 @@
 <!-- Greeting -->
 # Greetings, I'm David! :wave:
 
-[![Linkedin](https://img.shields.io/badge/-Davidrumbaa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-villaescusa-rumba-861bb1336/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Villaescusa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-villaescusa-rumba-861bb1336/)
+[![GitHub](https://img.shields.io/badge/GitHub-Davidrumbaa-181717?style=flat&logo=github&logoColor=white)](https://github.com/Davidrumbaa)
 
 <!--Introduction -->
 I'm a **Web application development student** at [PROMETEO](https://www.prometeo-fp.com/), currently expanding my knowledge in **Cybersecurity** through a master's degree and specializing in **Artificial Intelligence** with Racks Academy.
